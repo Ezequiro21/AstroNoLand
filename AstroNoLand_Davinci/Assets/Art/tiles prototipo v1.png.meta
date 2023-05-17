@@ -108,10 +108,10 @@ TextureImporter:
       name: tiles prototipo v1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
-        width: 64
-        height: 64
+        x: 60
+        y: 648
+        width: 328
+        height: 180
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -126,132 +126,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a783f89e793030b4694675f497f81ce7
-      internalID: 1298551538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11484e206b520354bb4a00850337265f
-      internalID: -1040365324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cd822f993794bf4082beb09106717fe
-      internalID: 1598129401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54d0cd0f4064a0c439aa63488306f9bb
-      internalID: 783826450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a64de6291cf06943833c85b83e122d9
-      internalID: 797886749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_6
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4baeeab5ae727e74c9d4fd58a518e90e
-      internalID: -1326378056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_8
       rect:
         serializedVersion: 2
@@ -259,8 +133,8 @@ TextureImporter:
         y: 768
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.4375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,8 +154,8 @@ TextureImporter:
         y: 768
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.4375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -301,8 +175,8 @@ TextureImporter:
         y: 768
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.4375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,204 +189,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_11
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 705ac8ff0461c4c4480afe12d201edbc
-      internalID: 1578612914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_12
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcafeda144c40474cab28b6c266e711f
-      internalID: -1699183579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_13
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b40b2a128442f1468fa3c726d156313
-      internalID: -1513236214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_14
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30869a688edac8540b73be2c9396f5b5
-      internalID: -342936018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_15
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e865e8ffe6c38b94c86fe9804f4d290a
-      internalID: 141086352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_16
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba2fa37b8cc4b3e4583f5bcf3d55290d
-      internalID: -201032331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_17
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7ad77cc50e1a7041b0101cff6c0a9cf
-      internalID: 585527773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_18
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d1a39473d6efc648bae081ecf70e82d
-      internalID: 1754974859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_19
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9bf8a889e54617846bd1ef0ef0c33cae
-      internalID: 673994810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: cuchillo
       rect:
         serializedVersion: 2
-        x: 845
-        y: 738
-        width: 53
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 840
+        y: 720
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -528,12 +213,12 @@ TextureImporter:
       name: tiles prototipo v1_21
       rect:
         serializedVersion: 2
-        x: 896
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 904
+        y: 720
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -549,12 +234,12 @@ TextureImporter:
       name: tiles prototipo v1_22
       rect:
         serializedVersion: 2
-        x: 960
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 964
+        y: 716
+        width: 56
+        height: 44
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.36363637}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -567,48 +252,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_26
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c28f69d512e1b3e469f23cc0e03c3c78
-      internalID: 2104132141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_27
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f74093bd24d40ea419bcdc962364e078
-      internalID: -744451122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: caminata1
       rect:
         serializedVersion: 2
@@ -616,8 +259,8 @@ TextureImporter:
         y: 640
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.4375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -636,9 +279,9 @@ TextureImporter:
         x: 640
         y: 640
         width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.29411766}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -658,8 +301,8 @@ TextureImporter:
         y: 640
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.4375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -677,7 +320,7 @@ TextureImporter:
         serializedVersion: 2
         x: 128
         y: 512
-        width: 64
+        width: 68
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -696,7 +339,7 @@ TextureImporter:
       name: ca
       rect:
         serializedVersion: 2
-        x: 192
+        x: 200
         y: 512
         width: 64
         height: 64
@@ -709,27 +352,6 @@ TextureImporter:
       bones: []
       spriteID: acc30785c3d97484c82433829038c7ff
       internalID: 1110576363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_36
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 940abd9934bd975478d4c111fffe10e2
-      internalID: 761398106
       vertices: []
       indices: 
       edges: []
@@ -759,7 +381,7 @@ TextureImporter:
       name: tiles prototipo v1_38
       rect:
         serializedVersion: 2
-        x: 640
+        x: 644
         y: 512
         width: 64
         height: 64
@@ -780,10 +402,10 @@ TextureImporter:
       name: tiles prototipo v1_39
       rect:
         serializedVersion: 2
-        x: 704
-        y: 512
-        width: 64
-        height: 64
+        x: 728
+        y: 508
+        width: 24
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -801,10 +423,10 @@ TextureImporter:
       name: tiles prototipo v1_40
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
-        width: 64
-        height: 64
+        x: 776
+        y: 540
+        width: 48
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +444,10 @@ TextureImporter:
       name: oxigeno
       rect:
         serializedVersion: 2
-        x: 831
-        y: 512
-        width: 64
-        height: 64
+        x: 848
+        y: 528
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -843,10 +465,10 @@ TextureImporter:
       name: tiles prototipo v1_42
       rect:
         serializedVersion: 2
-        x: 896
-        y: 512
-        width: 64
-        height: 64
+        x: 912
+        y: 528
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -856,27 +478,6 @@ TextureImporter:
       bones: []
       spriteID: 47a32cd037bec3141b1fa2ec9c56bbb9
       internalID: 1146170907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_43
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ae1b7bbdd332cd41b87edee2453002e
-      internalID: -768254026
       vertices: []
       indices: 
       edges: []
@@ -927,7 +528,7 @@ TextureImporter:
       name: tiles prototipo v1_46
       rect:
         serializedVersion: 2
-        x: 128
+        x: 132
         y: 384
         width: 64
         height: 64
@@ -948,7 +549,7 @@ TextureImporter:
       name: tiles prototipo v1_47
       rect:
         serializedVersion: 2
-        x: 192
+        x: 200
         y: 384
         width: 64
         height: 64
@@ -961,27 +562,6 @@ TextureImporter:
       bones: []
       spriteID: cb90e47242dcbb7408eab9c2d8f8a2a2
       internalID: 634242277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_48
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 384
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7fdc7a8c7533e24193750ae8cefa9f4
-      internalID: -1542331217
       vertices: []
       indices: 
       edges: []
@@ -1015,8 +595,8 @@ TextureImporter:
         y: 768
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.4375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1029,78 +609,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_23
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 869d43fca9002ff409415b2ea157f61c
-      internalID: -1575378456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_24
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40bc45311a836b240a12be9cae0a1d00
-      internalID: 1074007959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_25
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7f429fcdd61b7340a3f4a93bd9332e1
-      internalID: -779398008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: caminata4
       rect:
         serializedVersion: 2
         x: 768
         y: 640
         width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.29411766}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1108,27 +625,6 @@ TextureImporter:
       bones: []
       spriteID: ff3334a13582e6146a5d50761edbe18b
       internalID: -1749808465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_32
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35ab96096d6a24447be51cc3653fae9d
-      internalID: -1593772732
       vertices: []
       indices: 
       edges: []
@@ -1158,8 +654,8 @@ TextureImporter:
       name: tiles prototipo v1_50
       rect:
         serializedVersion: 2
-        x: 384
-        y: 384
+        x: 388
+        y: 383
         width: 64
         height: 64
       alignment: 0
@@ -1176,32 +672,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_51
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 384
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fde03c6520fec404c8cf2f1089538bc3
-      internalID: 1916104005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_52
       rect:
         serializedVersion: 2
         x: 768
-        y: 384
+        y: 396
         width: 64
         height: 64
       alignment: 0
@@ -1221,8 +696,8 @@ TextureImporter:
       name: tiles prototipo v1_53
       rect:
         serializedVersion: 2
-        x: 832
-        y: 384
+        x: 836
+        y: 396
         width: 64
         height: 64
       alignment: 0
@@ -1242,8 +717,8 @@ TextureImporter:
       name: tiles prototipo v1_54
       rect:
         serializedVersion: 2
-        x: 896
-        y: 384
+        x: 904
+        y: 396
         width: 64
         height: 64
       alignment: 0
@@ -1260,32 +735,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_55
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 384
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc7f4e4a093d1144fb4609d84afc2138
-      internalID: 56130467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_56
       rect:
         serializedVersion: 2
         x: 64
-        y: 320
+        y: 316
         width: 64
         height: 64
       alignment: 0
@@ -1305,8 +759,8 @@ TextureImporter:
       name: entrada
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
+        x: 132
+        y: 316
         width: 64
         height: 64
       alignment: 0
@@ -1326,8 +780,8 @@ TextureImporter:
       name: tiles prototipo v1_58
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
+        x: 200
+        y: 316
         width: 64
         height: 64
       alignment: 0
@@ -1344,34 +798,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_59
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8b4ff5a918b2fd4abb3b691fce25f80
-      internalID: 131011696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_60
       rect:
         serializedVersion: 2
-        x: 512
-        y: 320
-        width: 64
-        height: 64
+        x: 528
+        y: 336
+        width: 28
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1389,10 +822,10 @@ TextureImporter:
       name: velocidad
       rect:
         serializedVersion: 2
-        x: 576
-        y: 320
-        width: 64
-        height: 64
+        x: 588
+        y: 332
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1411,7 +844,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 320
+        y: 328
         width: 64
         height: 64
       alignment: 0
@@ -1431,8 +864,8 @@ TextureImporter:
       name: tiles prototipo v1_63
       rect:
         serializedVersion: 2
-        x: 832
-        y: 320
+        x: 836
+        y: 328
         width: 64
         height: 64
       alignment: 0
@@ -1452,8 +885,8 @@ TextureImporter:
       name: tiles prototipo v1_64
       rect:
         serializedVersion: 2
-        x: 896
-        y: 320
+        x: 904
+        y: 328
         width: 64
         height: 64
       alignment: 0
@@ -1465,111 +898,6 @@ TextureImporter:
       bones: []
       spriteID: 795094267d0f02544bba3427dea0d076
       internalID: -1979221259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_65
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d92ffa5dbc3666141af0609c6737f531
-      internalID: -1161090727
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_66
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6d4c3a1124d6da46bff9f23e2b46022
-      internalID: 550119058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_67
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07dd9b6d103ae9343bb0f67e88c3c3f8
-      internalID: -1062220802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_68
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51ca1617c1ebe6e40a15b2d36ae24242
-      internalID: -1880596397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_69
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21f45276fbd6b3b40925657af7529374
-      internalID: -1560876622
       vertices: []
       indices: 
       edges: []
@@ -1617,32 +945,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_72
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 289ce1f3458717946acffb38e64fb70d
-      internalID: 1002540030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_73
       rect:
         serializedVersion: 2
-        x: 640
-        y: 256
+        x: 632
+        y: 260
         width: 64
         height: 64
       alignment: 0
@@ -1662,8 +969,8 @@ TextureImporter:
       name: tiles prototipo v1_74
       rect:
         serializedVersion: 2
-        x: 704
-        y: 256
+        x: 700
+        y: 260
         width: 64
         height: 64
       alignment: 0
@@ -1684,7 +991,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 256
+        y: 260
         width: 64
         height: 64
       alignment: 0
@@ -1704,8 +1011,8 @@ TextureImporter:
       name: tiles prototipo v1_76
       rect:
         serializedVersion: 2
-        x: 832
-        y: 256
+        x: 836
+        y: 260
         width: 64
         height: 64
       alignment: 0
@@ -1717,27 +1024,6 @@ TextureImporter:
       bones: []
       spriteID: bd7f41e2fa16ce24d967504d0fa3a3d6
       internalID: -2052144007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiles prototipo v1_77
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0699ac0a23d6554e9a96513b54b55d0
-      internalID: 2130765381
       vertices: []
       indices: 
       edges: []
@@ -1785,31 +1071,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_80
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e82a7d91ab008642986ca4370e7e5dd
-      internalID: -1325158720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_81
       rect:
         serializedVersion: 2
-        x: 640
+        x: 632
         y: 192
         width: 64
         height: 64
@@ -1830,7 +1095,7 @@ TextureImporter:
       name: tiles prototipo v1_82
       rect:
         serializedVersion: 2
-        x: 704
+        x: 700
         y: 192
         width: 64
         height: 64
@@ -1872,7 +1137,7 @@ TextureImporter:
       name: tiles prototipo v1_84
       rect:
         serializedVersion: 2
-        x: 832
+        x: 836
         y: 192
         width: 64
         height: 64
@@ -1890,32 +1155,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_85
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb61b00028eed6d49a096e1e9b8b3154
-      internalID: -1767542147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: tiles prototipo v1_86
       rect:
         serializedVersion: 2
         x: 768
-        y: 128
+        y: 124
         width: 64
         height: 64
       alignment: 0
@@ -1936,7 +1180,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 64
+        y: 56
         width: 64
         height: 64
       alignment: 0
@@ -1953,13 +1197,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiles prototipo v1_88
+      name: tiles prototipo v1_20
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
-        width: 64
-        height: 64
+        x: 804
+        y: 540
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1967,29 +1211,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ad77cc7c1e82b14989ead6ba4203627
-      internalID: -1216764666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nave
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 633
-        width: 398
-        height: 217
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5228bf697195f4478c4caab7413220a
-      internalID: -1552989287
+      spriteID: 24f6219a0dc36e840a6f9008bf918906
+      internalID: 31990209
       vertices: []
       indices: 
       edges: []
@@ -2042,6 +1265,7 @@ TextureImporter:
       tiles prototipo v1_49: 679391661
       caminata3: -2006210243
       tiles prototipo v1_88: -1216764666
+      tiles prototipo v1_20: 31990209
       tiles prototipo v1_60: 206339828
       tiles prototipo v1_18: 1754974859
       tiles prototipo v1_52: 1262574022

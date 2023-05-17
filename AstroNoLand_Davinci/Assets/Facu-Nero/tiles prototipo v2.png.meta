@@ -1,0 +1,4039 @@
+fileFormatVersion: 2
+guid: 283c05d49f756b943ab1fc86a9dbe125
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiles prototipo v2_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 723
+        width: 204
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce6f2e661dfc24c93174db109aafcc
+      internalID: 431361365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 723
+        width: 204
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ab251b0460d18478d1cf2a6128777b
+      internalID: -485884799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 768
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab198ee74e6d247a1be28bc917e72b
+      internalID: -722883007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 768
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653245f22e605d54ca4df92c4f3c8f5a
+      internalID: 1809083732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 768
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc74709fab9672e4fb17db8b645a24db
+      internalID: -1561097680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 768
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf1b91858631e4297d9a64de39dbcc
+      internalID: -173542105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 768
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceb33ea8af62d54594a17e7ca8150ef
+      internalID: 1810024465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_7
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 768
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5acb006ea531142a295e1ea48c7834
+      internalID: 2003412893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_8
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 768
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8cea1cbdbb554a9de5f98c468dd39
+      internalID: -1511524551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 768
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fa4a1d28c53664f934ee2989c406d4
+      internalID: -186376008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_10
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 780
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9654fb4d1ab20c48a8903f7378350ff
+      internalID: -117555486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 780
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8bed6335ff3224b8728cab5be3c29a
+      internalID: -1948877470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_12
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 777
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dfdca3655ab304d842436b420305c8
+      internalID: -330772758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_13
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 768
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caffc43bd8e99d14cba846dc9dbe3d2c
+      internalID: -35145964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_14
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 768
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5919e913a5ee14479292a36fbb1fe54
+      internalID: -1004270012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_15
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 768
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeffa7405b641641a641691f2d56218
+      internalID: 1142329990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_16
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 768
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf7d1a5f13aa94b82a558c1e2544ec
+      internalID: 1387438825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 768
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff236c72dc049584d869ba9d3bf2a564
+      internalID: 1633124380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_18
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 768
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0115a9dc507043aef3dbb0bbaba69
+      internalID: -985910152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff30f39350e849d44932d9b71b1b7b1e
+      internalID: 1710268627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_20
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 768
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505720a4de4c844dbf2825cc782320d
+      internalID: 1831073172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_21
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 732
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dee27c5c2ecf941bf106a74ba6e2dc
+      internalID: 405891521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_22
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 732
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a8c114113170147b1ddfaf1839516f
+      internalID: 1233425908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_23
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 729
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c50cbf65390c4f89b144bd0c5984f
+      internalID: 661946350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_24
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 672
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec14315f66c07f64489d07cdccaf1dbd
+      internalID: 1787049352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_25
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 672
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e1a4af4206ce548a6a849d17344b93
+      internalID: -1390535728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_26
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 672
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac00f237c3b61ff4c93974c2dc455d61
+      internalID: 377142655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_27
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 672
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3271b2cf38d962468c94de63c27e328
+      internalID: -1084042210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 672
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326173d8ea8a2649a2797c81c95f688
+      internalID: 1894111741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_29
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 672
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5e4e24eec49b4384dbd1ceffd19ed
+      internalID: -1177411802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 672
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345f785addf7124a96f5ffad3a2c6fd
+      internalID: -1329420504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_31
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 672
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcbc926774e5af4881ef7c2122c6948
+      internalID: 202068370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 579
+        width: 204
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ed4a9e4c264e4cadb1c3917f5fa13
+      internalID: 827077792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 579
+        width: 204
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b431cd1635bbd4da29ef7796873fec
+      internalID: -1469433447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_34
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 672
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7d8790008928459e9c10891d0f5f5
+      internalID: 211058243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_35
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 672
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f409cdf1300e4e844c6982890bddf
+      internalID: -440365860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_36
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 672
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c4c38abce54b54889d42d45617ee9d
+      internalID: -271307854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_37
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 672
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb1ad2486e6954d8854ae174fe9707
+      internalID: -1063848141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_38
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 672
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c301a7a5d9b9448ced323002ef97f
+      internalID: -101471872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_39
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 672
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782ecb14023cba4f86617de0d006dd8
+      internalID: -261634143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_40
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 672
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457da21c8cb8ef4dbe73a5a975e2939
+      internalID: -997081034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_41
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 672
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9b30fd686cbbe4ebb3761f16959309
+      internalID: -1442188271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_42
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 690
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4c08dd77247f46bbeaacd7f5045ba
+      internalID: -1577414109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_43
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 690
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ec3c7043b1b44795f1770c2e64d04
+      internalID: -2075673767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_44
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 645
+        width: 15
+        height: 57
+      alignment: 9
+      pivot: {x: 0.40000004, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601f70d2b4bd6454d8c6d44393597504
+      internalID: -677223195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_45
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6b43a657449946949847d80b9288c
+      internalID: -1006214066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_46
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 576
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1d86e09060016449e03b476ccc01a7
+      internalID: 2047391728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_47
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 573
+        width: 18
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8fa09563fe41c44ab4e9553948842c
+      internalID: -630019507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 597
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770be672b672b2468e3021e9974f0f4
+      internalID: 373393622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_49
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 597
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6bedf8641ae5458a8bc7592f4b7ab
+      internalID: 407916610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 588
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7acde3f431c5345b46fd6216976faf
+      internalID: 1596022350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_51
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 588
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493426f95e77e6439dc1724ff5c16e9
+      internalID: -381688211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_52
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 570
+        width: 57
+        height: 72
+      alignment: 9
+      pivot: {x: 1, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84452ae3c647e3540b813e71e94b7f33
+      internalID: -915036182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_53
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 546
+        width: 63
+        height: 84
+      alignment: 9
+      pivot: {x: 0.8571429, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e794d17f193af344b951feb82fa92dc
+      internalID: -1984782378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_54
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 546
+        width: 93
+        height: 69
+      alignment: 9
+      pivot: {x: 0.38709676, y: 0.86956525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617acfe75fdf1d1439baba549447054a
+      internalID: -477743739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_55
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 568
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: -0, y: 0.8085106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffef2ae0ae8c474bb85107974d00901
+      internalID: -1770552997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_56
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 573
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2ae68e70dce145a9e016dafcc4c7c
+      internalID: -364761992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_57
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 573
+        width: 39
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d7a88bfcde160498781f8250a1963f
+      internalID: 1214409035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_58
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 573
+        width: 39
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a6b3b085919640a3bfb13d7d28c49
+      internalID: -1144940558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_59
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 573
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf47bcf48be9a4c9aeb0176a886359
+      internalID: 1199053795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 543
+        width: 48
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1196fd1c4e88d43b21a03ff82afbe7
+      internalID: 73322613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_61
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 537
+        width: 57
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0.40000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1843df16c92e498b6575279263ee1
+      internalID: -2032573934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097c730fed8dfd429abc90def05b44c
+      internalID: -888027586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 480
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aee1b7168d3664d831a4aacfd5ae29
+      internalID: 779166186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f93f461431271a4688407a8497a4441
+      internalID: -1362151180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9ebafe43e5d641b8554a0db2a3c1b
+      internalID: -109755934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 480
+        width: 48
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a42a8a0c99a3b444a82fc81f4aabe32
+      internalID: 2067840525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af8674dc75db246a17c04da6b0476e
+      internalID: -1941060096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 489
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f5a44898da5146aed2b8063192e0a
+      internalID: -833157921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_69
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 489
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0afdc3fcc64a43b58fc84439cd12f
+      internalID: 1055941776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_70
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 489
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c0c7b40d89d74e9a786d3ce9a1ebf
+      internalID: 1934136571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_71
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 441
+        width: 21
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe639b2dc0f52ae44baf51ca44af14e5
+      internalID: 1134989103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_72
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 477
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b178566ce5ed4c9876bf243f9a408
+      internalID: 607620553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_73
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 477
+        width: 39
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ca91257f358842ac8e84d0b8b59c5
+      internalID: -1901450539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_74
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 477
+        width: 39
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9f0220f05d584791b98c0cf1fcaee
+      internalID: -870954190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_75
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 477
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31ad5f19f41b14dbf19f313374b49a
+      internalID: 1938835178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 444
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12e25c89cadbe4c9f79b98535d71ce
+      internalID: -1737016436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_77
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 441
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa2266f5b17e4a44ace77d9fbda46f4
+      internalID: 1187464647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 438
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67415c69a0138d4f9a5e423eea197d9
+      internalID: 1133907864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_79
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 438
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a443a3e727a3dc46885995f7a550e81
+      internalID: -630554490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_80
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 438
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8326978bd8a05e6448dec6c03e13594c
+      internalID: 517745202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_81
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 332
+        width: 66
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41757df80d9729a448a681a1637b9437
+      internalID: 21160822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_82
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 441
+        width: 9
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d6ed23a3194849b85dad468ace4fc
+      internalID: -989900650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_83
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 441
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ee40bb8bce534695a792d2c3717f3
+      internalID: -1824359646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_84
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 441
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65526f9c98b9144aa99f165a6e739ac
+      internalID: -1187284173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804f362159f7294a99ceb8c92064ba4
+      internalID: -855363579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8e1e4433850948a82881ca87cab14
+      internalID: 779192841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 57
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968266e5a52916e4ebe8eb7ada71a4e6
+      internalID: 1405638516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8edcbdf99c03447ada0b77fa9060e0
+      internalID: -587814724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 387
+        width: 59
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69220967d093a54429f0791847f666be
+      internalID: -330732843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_90
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934abc17bba4bee44a6a11e00d2a7e25
+      internalID: -1658987350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_91
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39085d3ed78c6ff46a5c2558fc37a9ea
+      internalID: 1768869275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_92
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dccc2565a7eec4596341183b2c7aad
+      internalID: -20269138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_93
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a74cfb6e4eb784db2aa7c63e110716
+      internalID: 996209179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f62d5b4ddfe447be60309f96a79b1
+      internalID: -1577292662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 387
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2868184a75bc9d49a097996f7cde419
+      internalID: 928739203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_96
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 338
+        width: 56
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0c7399eac6bd41b8c50388f2e06bb
+      internalID: 753790097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_97
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 348
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3561809e81ef4ebc8fa55b6d29a08
+      internalID: 2112309588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_98
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 348
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c921a232064048ac0c8f4d50278e2
+      internalID: 583920519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_99
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 372
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b52c35609696f14fa2b740cf3600090
+      internalID: 1945951141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_100
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 372
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44848848e62b55440a65750a33b6c69c
+      internalID: 344340345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_101
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 360
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847e0b4dda1f344db76987eca1ca9f6
+      internalID: -1613640722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_102
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 366
+        width: 360
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659eeaeb8a401f741b6004bc1cc7acb1
+      internalID: -1337999678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac7c203b41e7c4cae251cb9c3b03b0
+      internalID: 670134784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_104
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125e5925ea0eea43b42e273ba7ae0fe
+      internalID: -1673025487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9e83fd8b47444f8afe7a09c3396db
+      internalID: 1478792049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_106
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70840bfba0da1a49a7ea450a6b5cd34
+      internalID: -251321344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_107
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608fb767ae00dd94081aecf59114f70b
+      internalID: -503477283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_108
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d9d853f72aae489e725b7118b0909
+      internalID: 2138314710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_109
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 333
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff31cea42ea2e94295edae70d4e2b9c
+      internalID: 1476846052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c78ce8f9390a469126cf36a7ccceb
+      internalID: 308175262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_111
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c83a0bea62ce48943097d95ce0c03
+      internalID: 1751761897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b301d33c83a48c4aace62304d2fb190
+      internalID: 504610626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_113
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 336
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c401ddf8ed57d428faf66a9a038285
+      internalID: 1408031378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_114
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 356
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf5c9d18e9fb242b3136346b1c798e
+      internalID: -1238060530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_115
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 285
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997847135841aa844aad3740a7f44c40
+      internalID: 305893742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_116
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 300
+        width: 72
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11571fc23997ba42b67ee8e1f6791cc
+      internalID: -858453618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_117
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 245
+        width: 54
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bba1b299f021e4baddf280aa68812d
+      internalID: -2005680971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_118
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 264
+        width: 77
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2d0fcd75c64d41aa34624c81d0c00
+      internalID: -487106191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_119
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 300
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9029e43b1e41342a4994ecb25a8417
+      internalID: 1787857215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_120
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 300
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666620f7be83d7249929774dd7e027a5
+      internalID: 736628293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_121
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 288
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af432d7f31d07f44b2aff81c6d28222
+      internalID: -1491342606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_122
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 288
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54649310e29b42144ba52a5c61a060af
+      internalID: -171820291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_123
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 288
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771a6493b49c9d498941ce85a0755c4
+      internalID: -954009403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_124
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 288
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc678cbb1f053904ba6f872179b708db
+      internalID: 2039667518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_125
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 288
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6103ff9a9492347823d5e6211bde7a
+      internalID: 86403481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_126
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 288
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f928281c82eb2648af56b4c7bf3a940
+      internalID: 738883424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_127
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 288
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cbe1e5342d456489f6207d89ced878
+      internalID: -1408951779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_128
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 288
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7459f807c295cc649a00294ac1600e63
+      internalID: 1229472614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_129
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 288
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4b89d2fc9ba1489e8a50c6052e71f
+      internalID: 364584320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_130
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 288
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892bfd19162162a45aad25da41e39f99
+      internalID: 1959981236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_131
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 288
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e245b5085bf34086ee6783e038220
+      internalID: -332854298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_132
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 288
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f516174caa531aa42af47657bc07428a
+      internalID: 1500179856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_133
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 288
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b23a24f4170041a959e23e2056730
+      internalID: 1951511566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_134
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 288
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4966d042c8955604485b391d46236fb3
+      internalID: 71179928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_135
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 288
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc35b4a6112b31a479c7ffc71da71c9f
+      internalID: -1876356088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c64b9cb334dac489c85f15b512ed6b
+      internalID: 233272528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_137
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9401bc207226bc49bba2baedd184bc8
+      internalID: 1850682491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 240
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2025006fb645cdf4cb4d29fe7b99d1a4
+      internalID: -432418374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_139
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 240
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28cd1204c839f14cb901d4c81709ac7
+      internalID: 804774921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2064a1018c645cf47a59cc5e3584b16a
+      internalID: 1738358138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71660b82bb2845a409c60aee6e7c5f3a
+      internalID: -1246859866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 234
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625f18f4cc1afa54dbbd52b00a116d72
+      internalID: -91585925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_143
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 252
+        width: 97
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccec33c4deadc94ea87fb665941d967
+      internalID: -949514067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_144
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 240
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad6885ba5d93e4ca1a395a99fd05a6
+      internalID: 555781691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_145
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 234
+        width: 59
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adc414becd79e84587e004a246bab5e
+      internalID: -663391130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_146
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 252
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3593c879f93e1e49aead03f0d328dee
+      internalID: -1695284254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_147
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 240
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc6b2589d8de94eb5ff5f5caf1ef01
+      internalID: 340980026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_148
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 240
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da9dcf98918f245b0e1936fe8a0d0c
+      internalID: -1323440382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_149
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 240
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e00085eff8d6c49ba9eb0ca3c14d90
+      internalID: 1225111793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_150
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 240
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b384e325d961bc48ad4cdec49bc236c
+      internalID: 1026841794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_151
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 240
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06c6192c22e6944beef247e07d299f
+      internalID: -1038573856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_152
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 240
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30057f14fbafcdc4ca2fbdc3043fbf0b
+      internalID: -813930044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_153
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 240
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab46e1d8aa6fcf6498ccdd649f4e03f7
+      internalID: -1287149628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_154
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 240
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba627fe20df4ec43a6198788a882f4c
+      internalID: 1089852363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_155
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 240
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee689400480cf948a1a5ef5c274a554
+      internalID: -1925569437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_156
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 240
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feb261fc82501a419c11ebd31cdaa8a
+      internalID: 1873356290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_157
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 240
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a1b470b80c274ea80fe281ba6657c
+      internalID: -485859071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_158
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 240
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f13c10915e754bbc08920a51e933e
+      internalID: -1232640040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_159
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 240
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72445c7ba9fab724dbda6e5274afb92c
+      internalID: 1617865815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_160
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 240
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123fc1582971b78429bb9dd73df3ef21
+      internalID: 226948222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_161
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 240
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0ac7e39c01d4408a5481407623e93
+      internalID: 1794871969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 114
+        width: 96
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be02261a9f465d84ebf28a0fb4d40326
+      internalID: 380242411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_163
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20046a24ee2008544b5cdfe1756adc5b
+      internalID: 1769831111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_164
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 99
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43bc1254b60464faea047a156962cf
+      internalID: 239894335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_165
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 99
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9eeba5430f58c4ead399d63eaa0c71
+      internalID: -2214998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_166
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 99
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26864475db62f184cb181c4c454b2fbb
+      internalID: 477059247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_167
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 99
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff85979866e9e40baddc70b760eeb0
+      internalID: 1296400862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_168
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 123
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd13d1acc11ab4a9d82ca8ed5f97e8
+      internalID: 1915426823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_169
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 123
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b9e0c3b99932a45a928f3118a04c8d
+      internalID: 927995859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_170
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 123
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef70743e3b2264187f0ac01e129d84
+      internalID: -623021833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_171
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 123
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a342599dc73014284299ef4f01d3a2
+      internalID: -933475779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_172
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 123
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4efe256ad2af34eb65d32cc9856bdd
+      internalID: 125660193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_173
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae978c401263fd49b7697a940d44bee
+      internalID: 1213363590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_174
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eace03e63588d54e85480f87f846d84
+      internalID: -1740901876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c295b8e4e758849ba0c2148aa93e7e
+      internalID: -11058520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_176
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca0fc7cf70d47841af9261dba980f7b
+      internalID: -177030992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles prototipo v2_177
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ba3bb9af71ee44a70dc1743676606
+      internalID: -808747074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tiles prototipo v2_156: 1873356290
+      tiles prototipo v2_172: 125660193
+      tiles prototipo v2_117: -2005680971
+      tiles prototipo v2_39: -261634143
+      tiles prototipo v2_64: -1362151180
+      tiles prototipo v2_60: 73322613
+      tiles prototipo v2_103: 670134784
+      tiles prototipo v2_142: -91585925
+      tiles prototipo v2_88: -587814724
+      tiles prototipo v2_94: -1577292662
+      tiles prototipo v2_161: 1794871969
+      tiles prototipo v2_146: -1695284254
+      tiles prototipo v2_154: 1089852363
+      tiles prototipo v2_132: 1500179856
+      tiles prototipo v2_80: 517745202
+      tiles prototipo v2_122: -171820291
+      tiles prototipo v2_32: 827077792
+      tiles prototipo v2_69: 1055941776
+      tiles prototipo v2_86: 779192841
+      tiles prototipo v2_93: 996209179
+      tiles prototipo v2_162: 380242411
+      tiles prototipo v2_8: -1511524551
+      tiles prototipo v2_44: -677223195
+      tiles prototipo v2_91: 1768869275
+      tiles prototipo v2_124: 2039667518
+      tiles prototipo v2_163: 1769831111
+      tiles prototipo v2_158: -1232640040
+      tiles prototipo v2_79: -630554490
+      tiles prototipo v2_115: 305893742
+      tiles prototipo v2_144: 555781691
+      tiles prototipo v2_165: -2214998
+      tiles prototipo v2_90: -1658987350
+      tiles prototipo v2_177: -808747074
+      tiles prototipo v2_141: -1246859866
+      tiles prototipo v2_22: 1233425908
+      tiles prototipo v2_6: 1810024465
+      tiles prototipo v2_168: 1915426823
+      tiles prototipo v2_21: 405891521
+      tiles prototipo v2_171: -933475779
+      tiles prototipo v2_46: 2047391728
+      tiles prototipo v2_68: -833157921
+      tiles prototipo v2_148: -1323440382
+      tiles prototipo v2_75: 1938835178
+      tiles prototipo v2_82: -989900650
+      tiles prototipo v2_85: -855363579
+      tiles prototipo v2_12: -330772758
+      tiles prototipo v2_10: -117555486
+      tiles prototipo v2_54: -477743739
+      tiles prototipo v2_109: 1476846052
+      tiles prototipo v2_74: -870954190
+      tiles prototipo v2_66: 2067840525
+      tiles prototipo v2_87: 1405638516
+      tiles prototipo v2_140: 1738358138
+      tiles prototipo v2_78: 1133907864
+      tiles prototipo v2_170: -623021833
+      tiles prototipo v2_95: 928739203
+      tiles prototipo v2_136: 233272528
+      tiles prototipo v2_98: 583920519
+      tiles prototipo v2_107: -503477283
+      tiles prototipo v2_30: -1329420504
+      tiles prototipo v2_123: -954009403
+      tiles prototipo v2_77: 1187464647
+      tiles prototipo v2_176: -177030992
+      tiles prototipo v2_37: -1063848141
+      tiles prototipo v2_45: -1006214066
+      tiles prototipo v2_167: 1296400862
+      tiles prototipo v2_58: -1144940558
+      tiles prototipo v2_76: -1737016436
+      tiles prototipo v2_137: 1850682491
+      tiles prototipo v2_99: 1945951141
+      tiles prototipo v2_89: -330732843
+      tiles prototipo v2_155: -1925569437
+      tiles prototipo v2_84: -1187284173
+      tiles prototipo v2_108: 2138314710
+      tiles prototipo v2_31: 202068370
+      tiles prototipo v2_70: 1934136571
+      tiles prototipo v2_112: 504610626
+      tiles prototipo v2_81: 21160822
+      tiles prototipo v2_129: 364584320
+      tiles prototipo v2_131: -332854298
+      tiles prototipo v2_104: -1673025487
+      tiles prototipo v2_2: -722883007
+      tiles prototipo v2_72: 607620553
+      tiles prototipo v2_20: 1831073172
+      tiles prototipo v2_149: 1225111793
+      tiles prototipo v2_42: -1577414109
+      tiles prototipo v2_83: -1824359646
+      tiles prototipo v2_153: -1287149628
+      tiles prototipo v2_24: 1787049352
+      tiles prototipo v2_114: -1238060530
+      tiles prototipo v2_19: 1710268627
+      tiles prototipo v2_61: -2032573934
+      tiles prototipo v2_92: -20269138
+      tiles prototipo v2_36: -271307854
+      tiles prototipo v2_173: 1213363590
+      tiles prototipo v2_111: 1751761897
+      tiles prototipo v2_35: -440365860
+      tiles prototipo v2_13: -35145964
+      tiles prototipo v2_169: 927995859
+      tiles prototipo v2_166: 477059247
+      tiles prototipo v2_1: -485884799
+      tiles prototipo v2_25: -1390535728
+      tiles prototipo v2_63: 779166186
+      tiles prototipo v2_67: -1941060096
+      tiles prototipo v2_97: 2112309588
+      tiles prototipo v2_174: -1740901876
+      tiles prototipo v2_0: 431361365
+      tiles prototipo v2_127: -1408951779
+      tiles prototipo v2_18: -985910152
+      tiles prototipo v2_65: -109755934
+      tiles prototipo v2_110: 308175262
+      tiles prototipo v2_143: -949514067
+      tiles prototipo v2_133: 1951511566
+      tiles prototipo v2_102: -1337999678
+      tiles prototipo v2_47: -630019507
+      tiles prototipo v2_160: 226948222
+      tiles prototipo v2_9: -186376008
+      tiles prototipo v2_51: -381688211
+      tiles prototipo v2_119: 1787857215
+      tiles prototipo v2_126: 738883424
+      tiles prototipo v2_4: -1561097680
+      tiles prototipo v2_14: -1004270012
+      tiles prototipo v2_135: -1876356088
+      tiles prototipo v2_53: -1984782378
+      tiles prototipo v2_96: 753790097
+      tiles prototipo v2_134: 71179928
+      tiles prototipo v2_139: 804774921
+      tiles prototipo v2_3: 1809083732
+      tiles prototipo v2_43: -2075673767
+      tiles prototipo v2_152: -813930044
+      tiles prototipo v2_100: 344340345
+      tiles prototipo v2_17: 1633124380
+      tiles prototipo v2_52: -915036182
+      tiles prototipo v2_55: -1770552997
+      tiles prototipo v2_49: 407916610
+      tiles prototipo v2_29: -1177411802
+      tiles prototipo v2_27: -1084042210
+      tiles prototipo v2_147: 340980026
+      tiles prototipo v2_71: 1134989103
+      tiles prototipo v2_15: 1142329990
+      tiles prototipo v2_157: -485859071
+      tiles prototipo v2_159: 1617865815
+      tiles prototipo v2_101: -1613640722
+      tiles prototipo v2_57: 1214409035
+      tiles prototipo v2_62: -888027586
+      tiles prototipo v2_128: 1229472614
+      tiles prototipo v2_175: -11058520
+      tiles prototipo v2_38: -101471872
+      tiles prototipo v2_120: 736628293
+      tiles prototipo v2_145: -663391130
+      tiles prototipo v2_5: -173542105
+      tiles prototipo v2_26: 377142655
+      tiles prototipo v2_7: 2003412893
+      tiles prototipo v2_106: -251321344
+      tiles prototipo v2_118: -487106191
+      tiles prototipo v2_23: 661946350
+      tiles prototipo v2_164: 239894335
+      tiles prototipo v2_125: 86403481
+      tiles prototipo v2_34: 211058243
+      tiles prototipo v2_11: -1948877470
+      tiles prototipo v2_28: 1894111741
+      tiles prototipo v2_50: 1596022350
+      tiles prototipo v2_113: 1408031378
+      tiles prototipo v2_151: -1038573856
+      tiles prototipo v2_121: -1491342606
+      tiles prototipo v2_73: -1901450539
+      tiles prototipo v2_138: -432418374
+      tiles prototipo v2_59: 1199053795
+      tiles prototipo v2_130: 1959981236
+      tiles prototipo v2_41: -1442188271
+      tiles prototipo v2_40: -997081034
+      tiles prototipo v2_33: -1469433447
+      tiles prototipo v2_16: 1387438825
+      tiles prototipo v2_150: 1026841794
+      tiles prototipo v2_56: -364761992
+      tiles prototipo v2_116: -858453618
+      tiles prototipo v2_105: 1478792049
+      tiles prototipo v2_48: 373393622
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
