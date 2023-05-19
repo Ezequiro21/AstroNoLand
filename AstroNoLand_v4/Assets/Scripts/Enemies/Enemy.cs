@@ -8,6 +8,7 @@ public enum EnemyState
     walk,
     attack,
     stagger
+
 }
 
 public class Enemy : MonoBehaviour
@@ -22,6 +23,7 @@ public class Enemy : MonoBehaviour
     public LootTable thisLoot;
     public EnemyMovement enemyMovement;
     public Rigidbody2D myRigidbody;
+    public GameObject bullet;
 
     public float Health 
     {
@@ -101,5 +103,9 @@ public class Enemy : MonoBehaviour
                
             
         }
+
+      
     }
+
+  
 }

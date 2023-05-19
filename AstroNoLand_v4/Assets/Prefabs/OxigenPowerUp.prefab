@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1402880074353653330}
   - component: {fileID: 1402880074353653332}
   - component: {fileID: 1402880074353653333}
+  - component: {fileID: -448515684572569785}
   m_Layer: 9
   m_Name: OxigenPowerUp
   m_TagString: Oxigen
@@ -103,7 +104,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.64, y: 0.64}
+    oldSize: {x: 0.32, y: 0.36}
     newSize: {x: 0.32, y: 0.36}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -129,3 +130,15 @@ MonoBehaviour:
   playerLifeBarObject: {fileID: 0}
   countDownLifeObject: {fileID: 0}
   countDownLife: {fileID: 0}
+--- !u!114 &-448515684572569785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1402880074353653329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200c9adfdb7010649a98e0ce93af78da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
